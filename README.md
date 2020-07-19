@@ -6,7 +6,7 @@ I am a software engineer with a keen interest in full stack development and love
 - 👯 I’m looking to collaborate on ReactJS projects.
 - 💬 Ask me about Data structure and algorithms, operating system and computer networks:) Also,I will be really interested in React specific thought provoking ideas and tricks!
 - 📫 How to reach me: gmail: coderquill@gmail.com
-- ⚡ Fun fact: I will surely beat you at dance-face-off.             
+- ⚡ Fun fact: I will surely beat you at a dance-face-off.             
 
 
 <!--
