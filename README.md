@@ -3,7 +3,7 @@
 
 I am a software engineer with a keen interest in full stack development and love for data structures and algorithms.
 - 👯 I’m looking to collaborate on React projects.
-- 💬 Ask me about Data structure and algorithms, operating system and computer networks:) Also,I will be really interested in React specific thought provoking ideas and tricks!
+- 💬 Ask me about Data structure and algorithms, operating system and computer networks:) Also, I will be really interested in React specific thought-provoking ideas and tricks!
 - ⚡ Fun fact: I will surely beat you at a dance-face-off.   
 
 <h3>Quick Links</h3>
