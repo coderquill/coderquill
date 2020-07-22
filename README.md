@@ -1,4 +1,4 @@
-<h2> Hi, 👋 I'm Rupali<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, 👋 I'm Rupali</h2>
 <img align='right' src="https://user-images.githubusercontent.com/30548190/88092733-969f6d00-cbae-11ea-8c86-d9ce6723fe36.gif" width="300">
 
 I am a software engineer with a keen interest in full stack development and love for data structures and algorithms.
