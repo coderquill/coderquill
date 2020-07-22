@@ -9,8 +9,8 @@ I am a software engineer with a keen interest in full stack development and love
 <h3>Quick Links</h3>
 <ul >
   <li><a href="https://coderquill.github.io/topstar">TopStar- Find most starred repositories </a></li>
-  <li><a href="https://github.com/coderquill/restafind">React application for restaurant information</a></li>
-  <li><a href="https://github.com/coderquill/hastasanvad">HastaSanvad: Android application for Devnagari sign language recognition</a></li>
+  <li><a href="https://github.com/coderquill/restaInfo">React application for restaurant information</a></li>
+  <li><a href="https://github.com/coderquill/HastaSanvad">HastaSanvad: Android application for Devnagari sign language recognition</a></li>
 </ul>
 <hr/>
 
