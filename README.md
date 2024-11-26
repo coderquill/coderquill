@@ -5,7 +5,7 @@
 <ul >
   <li><b>Fan Loyalty Scorecard </b>: Engineered a data pipeline and developed algorithm to analyze fan engagement, achieving 95%
 data completeness and accurate loyalty categorization; <b>Tech stack: Python, Pandas, Machine Learning, NLP, correlation analysis, Elasticity modeling</b></li>
-  <li><a href="https://coderquill.github.io/topstar"><b>Easy PRT</b></a> : Designed and devised a Java Library for Real-time data analysis, predictions and historical data analysis, for the Pittsburgh Regional Transit(PRT) system; <b>Tech stack: Java, API design Principles</b>; Received <b>A+</b> by <a href="https://en.wikipedia.org/wiki/Joshua_Bloch">Dr. Joshua Bloch</b></a></li>
+  <li><a href="https://github.com/coderquill/EasyPRT"><b>Easy PRT</b></a> : Designed and devised a Java Library for Real-time data analysis, predictions and historical data analysis, for the Pittsburgh Regional Transit(PRT) system; <b>Tech stack: Java, API design Principles</b>; Received <b>A+</b> by <a href="https://en.wikipedia.org/wiki/Joshua_Bloch">Dr. Joshua Bloch</b></a></li>
   <li><a href="https://coderquill.github.io/topstar">TopStar- Find most starred repositories </a></li>
   <li><a href="https://github.com/coderquill/restaInfo">React application for restaurant information</a></li>
   <li><a href="https://github.com/coderquill/HastaSanvad">HastaSanvad: Android application for Devnagari sign language recognition</a></li>
